@@ -5,8 +5,12 @@
 
 <!-- Social Links Here -->
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/vijesh19/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a>  
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=VijeshSharma&style=flat-square&color=blue" alt=""/>
 </div>
