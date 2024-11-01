@@ -42,9 +42,9 @@
 
 - :zap:  I enjoy solving problems on GeeksforGeeks, leetcode and exploring tech articles
   
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Data Cloud and AI capabilities of Salesforce Platform.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vijesh19/)
 
 ---
 
