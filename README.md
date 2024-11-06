@@ -71,6 +71,7 @@
 <div>
   <img src="https://sfcertified.com/wp-content/uploads/2022/04/Platform-Developer-I.png" title="Java" alt="PD1" width="100" height="100"/>&nbsp;
   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" title="Admin" alt="Admin" width="100" height="100"/>&nbsp;
+  <img src="https://www.growthlondon.uk/hubfs/gl-2023/logos/Product_Logo_OneLine_Marketing_Hub.svg" title="Admin" alt="Admin" width="100" height="100"/>&nbsp;  
 </div>
 
 
