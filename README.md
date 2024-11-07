@@ -71,7 +71,7 @@
 <div>
   <img src="https://sfcertified.com/wp-content/uploads/2022/04/Platform-Developer-I.png" title="PD1" alt="PD1" width="100" height="100"/>&nbsp;
   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" title="Admin" alt="Admin" width="100" height="100"/>&nbsp;
-  <img src="https://digitale.gr/wp-content/uploads/2021/08/Group-2302-e1722399372758.png" title="HubSpot" alt="Hubspot" width="100" height="100"/>&nbsp;  
+  <img src="https://digitale.gr/wp-content/uploads/2021/08/Group-2302-e1722399372758.png" title="HubSpot" alt="Hubspot" width="200" height="100"/>&nbsp;  
 </div>
 
 
